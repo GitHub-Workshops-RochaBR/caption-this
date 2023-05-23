@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Hi, this is Zipan's slide
+Hi, I made the changes again
 
 ![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}
